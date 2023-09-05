@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek2459
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Cross-Platform Development
+- 🌱 I’m currently learning ...Big Data
 - 💞️ I’m looking to collaborate on ...Data Science Projects
 - 📫 How to reach me ...u can always reach me on my mail id -abhishekpatra6129@gmail.com
 
