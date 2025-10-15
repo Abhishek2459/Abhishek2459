@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Abhishek2459
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Big Data
-- 💞️ I’m looking to collaborate on ...Data Science Projects
-- 📫 How to reach me ...u can always reach me on my mail id -abhishekpatra6129@gmail.com
+👋 Hi there! I'm Abhishek Patra (@Abhishek2459)
+
+- 💻 Data Engineer passionate about building scalable data-driven solutions  
+- 🔍 Interests: Data Science, Machine Learning, and Distributed Data Systems  
+- 🌱 Currently honing skills in Big Data technologies — Spark, Hadoop, and Kafka  
+- 🧠 Experienced with Python, SQL, and cloud platforms like AWS and Azure  
+- 🤝 Open to collaborating on end-to-end Data Engineering and AI projects  
+- 📫 Reach me at: [abhishekpatra6129@gmail.com](mailto:abhishekpatra6129@gmail.com)
+
 
 <!---
 Abhishek2459/Abhishek2459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
