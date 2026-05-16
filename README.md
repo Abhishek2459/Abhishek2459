@@ -34,7 +34,7 @@ With a previous background in **API Development & Testing**, I bring a unique pe
 | :--- | :--- |
 | **Azure Data Domain** | Azure Data Factory, Databricks, Synapse Analytics, ADLS Gen2, Power BI |
 | **Ancient Core (HDFS)** | Hadoop HDFS, Apache Spark, MapReduce, Hive, Big Data Optimization |
-| **Software Forge** | Python, SQL, HTML , Scala ,  Bash |
+| **Software Forge** | Python, SQL, Scala ,  Bash |
 | **Bridge Construction** | RESTful APIs, Postman, PyTest , Robot-Framework , Integration Testing |
 | **Foundational Arts** | Linux/Unix, Git, Agile Methodology, Data Warehousing |
 
@@ -52,7 +52,7 @@ With a previous background in **API Development & Testing**, I bring a unique pe
 
 The most reliable way to establish communication:
 
-<a href="[https://www.linkedin.com/in/abhishekpatra6/]">
+<a href="https://www.linkedin.com/in/abhishekpatra6/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
