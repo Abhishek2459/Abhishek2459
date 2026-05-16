@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://api.starryai.com/static/content/data/generated_images/db/db77b960-496e-473d-9d41-356a6f1d6b04.webp?w=1280&q=75" width="100%" alt="Data Engineer Anime Persona" />
+  <img src="https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874673b624f2.gif" width="100%" alt="Anime Data Engineer Coding" />
 </div>
 
-<h1 align="center">Hi there, I'm [Abhishek]! 👋</h1>
+<h1 align="center">Hi there, I'm Abhishek! 👋</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Cloud%20Data%20Architect-A100FF?style=for-the-badge&logo=azuredatafactory&logoColor=white" />
